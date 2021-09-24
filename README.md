@@ -6,4 +6,4 @@ CRUD Application with Node, Express &amp; MongoDB
 
 [ ] Run npm start
 
-<img src="https://i.ibb.co/FDKQ2TG/Screenshot-3.png"/>
+<!-- <img src="https://i.ibb.co/FDKQ2TG/Screenshot-3.png"/> -->
