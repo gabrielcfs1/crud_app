@@ -33,6 +33,3 @@ app.use('/', require('./server/routes/router.js'))
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`)
 });
-
-
-//PAREI NO VIEWS 01:22:40 MONGODB VIDEO
